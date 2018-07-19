@@ -1,0 +1,2887 @@
+fileFormatVersion: 2
+guid: 4cae80ef4d2065f4fa3ae7a789fff272
+timeCreated: 1531978099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_0"
+    21300002: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_1"
+    21300004: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_2"
+    21300006: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_3"
+    21300008: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_4"
+    21300010: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_5"
+    21300012: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_6"
+    21300014: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_7"
+    21300016: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_8"
+    21300018: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_9"
+    21300020: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_10"
+    21300022: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_11"
+    21300024: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_12"
+    21300026: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_13"
+    21300028: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_14"
+    21300030: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_15"
+    21300032: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_16"
+    21300034: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_17"
+    21300036: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_18"
+    21300038: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_19"
+    21300040: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_20"
+    21300042: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_21"
+    21300044: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_22"
+    21300046: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_23"
+    21300048: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_24"
+    21300050: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_25"
+    21300052: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_26"
+    21300054: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_27"
+    21300056: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_28"
+    21300058: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_29"
+    21300060: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_30"
+    21300062: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_31"
+    21300064: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_32"
+    21300066: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_33"
+    21300068: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_34"
+    21300070: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_35"
+    21300072: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_36"
+    21300074: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_37"
+    21300076: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_38"
+    21300078: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_39"
+    21300080: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_40"
+    21300082: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_41"
+    21300084: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_42"
+    21300086: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_43"
+    21300088: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_44"
+    21300090: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_45"
+    21300092: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_46"
+    21300094: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_47"
+    21300096: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_48"
+    21300098: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_49"
+    21300100: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_50"
+    21300102: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_51"
+    21300104: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_52"
+    21300106: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_53"
+    21300108: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_54"
+    21300110: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_55"
+    21300112: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_56"
+    21300114: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_57"
+    21300116: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_58"
+    21300118: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_59"
+    21300120: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_60"
+    21300122: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_61"
+    21300124: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_62"
+    21300126: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_63"
+    21300128: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_64"
+    21300130: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_65"
+    21300132: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_66"
+    21300134: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_67"
+    21300136: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_68"
+    21300138: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_69"
+    21300140: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_70"
+    21300142: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_71"
+    21300144: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_72"
+    21300146: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_73"
+    21300148: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_74"
+    21300150: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_75"
+    21300152: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_76"
+    21300154: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_77"
+    21300156: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_78"
+    21300158: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_79"
+    21300160: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_80"
+    21300162: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_81"
+    21300164: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_82"
+    21300166: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_83"
+    21300168: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_84"
+    21300170: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_85"
+    21300172: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_86"
+    21300174: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_87"
+    21300176: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_88"
+    21300178: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_89"
+    21300180: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_90"
+    21300182: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_91"
+    21300184: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_92"
+    21300186: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_93"
+    21300188: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_94"
+    21300190: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_95"
+    21300192: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_96"
+    21300194: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_97"
+    21300196: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_98"
+    21300198: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_99"
+    21300200: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_100"
+    21300202: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_101"
+    21300204: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_102"
+    21300206: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_103"
+    21300208: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_104"
+    21300210: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_105"
+    21300212: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_106"
+    21300214: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_107"
+    21300216: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_108"
+    21300218: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_109"
+    21300220: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_110"
+    21300222: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_111"
+    21300224: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_112"
+    21300226: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_113"
+    21300228: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_114"
+    21300230: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_115"
+    21300232: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_116"
+    21300234: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_117"
+    21300236: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_118"
+    21300238: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_119"
+    21300240: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_120"
+    21300242: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_121"
+    21300244: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_122"
+    21300246: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_123"
+    21300248: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_124"
+    21300250: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_125"
+    21300252: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_126"
+    21300254: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_127"
+    21300256: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_128"
+    21300258: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_129"
+    21300260: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_130"
+    21300262: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_131"
+    21300264: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_132"
+    21300266: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_133"
+    21300268: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_134"
+    21300270: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_135"
+    21300272: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_136"
+    21300274: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_137"
+    21300276: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_138"
+    21300278: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_139"
+    21300280: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_140"
+    21300282: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_141"
+    21300284: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_142"
+    21300286: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_143"
+    21300288: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_144"
+    21300290: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_145"
+    21300292: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_146"
+    21300294: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_147"
+    21300296: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_148"
+    21300298: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_149"
+    21300300: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_150"
+    21300302: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_151"
+    21300304: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_152"
+    21300306: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_153"
+    21300308: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_154"
+    21300310: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_155"
+    21300312: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_156"
+    21300314: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_157"
+    21300316: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_158"
+    21300318: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_159"
+    21300320: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_160"
+    21300322: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_161"
+    21300324: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_162"
+    21300326: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_163"
+    21300328: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_164"
+    21300330: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_165"
+    21300332: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_166"
+    21300334: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_167"
+    21300336: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_168"
+    21300338: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_169"
+    21300340: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_170"
+    21300342: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_171"
+    21300344: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_172"
+    21300346: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_173"
+    21300348: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_174"
+    21300350: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_175"
+    21300352: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_176"
+    21300354: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_177"
+    21300356: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_178"
+    21300358: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_179"
+    21300360: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_180"
+    21300362: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_181"
+    21300364: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_182"
+    21300366: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_183"
+    21300368: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_184"
+    21300370: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_185"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 503
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 496
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 496
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 496
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 498
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 498
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 498
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 503
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 503
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 504
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 504
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 498
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 488
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 488
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 488
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 488
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 498
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 496
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 488
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 488
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 498
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 456
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 464
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 464
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 454
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 456
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 454
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_61"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 456
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_62"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 462
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_63"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 454
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_65"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 430
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_66"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 430
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_67"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 420
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_68"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 420
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_69"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 420
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_70"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 420
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_71"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 420
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_72"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 420
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_73"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 422
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_74"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 420
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_75"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 420
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_76"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 422
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_77"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 438
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_78"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 436
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_79"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 436
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_80"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 436
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_81"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 436
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_82"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 436
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_83"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 436
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_84"
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 436
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_85"
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 436
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_86"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_87"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 436
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_88"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 436
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_89"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_90"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_91"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_92"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_93"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 402
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_94"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 394
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_95"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 402
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_96"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 394
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_97"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 402
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_98"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 394
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_99"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 402
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_100"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_101"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_102"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 396
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_103"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 396
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_104"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_105"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_106"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_107"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_108"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_109"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 387
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_110"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_111"
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_112"
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 387
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_113"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_114"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_115"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_116"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 396
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_117"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 396
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_118"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_119"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_120"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_121"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_122"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_123"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 353
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_124"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 354
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_125"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_126"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 353
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_127"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 354
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_128"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_129"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_130"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 362
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_131"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 362
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_132"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_133"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_134"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_135"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_136"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_137"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 353
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_138"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 354
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_139"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_140"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 353
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_141"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 354
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_142"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 370
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_143"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 368
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_144"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 368
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_145"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 368
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_146"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 368
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_147"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 368
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_148"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 368
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_149"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_150"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 334
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_151"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_152"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_153"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 334
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_154"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_155"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_156"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 334
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_157"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 334
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_158"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 334
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_159"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 334
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_160"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 334
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_161"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 334
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_162"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_163"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 334
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_164"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_165"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_166"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 334
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_167"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_168"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 336
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_169"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 334
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_170"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 334
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_171"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 334
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_172"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 334
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_173"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 334
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_174"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 334
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_175"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_176"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 334
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_177"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_178"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_179"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 334
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_180"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_181"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 252
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_182"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 264
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_183"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 260
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_184"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 264
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "cocos2d\u8D85\u7EA7\u739B\u4E3D\u624B\u6E38\u6E90\u7801-mario_\u7231\u7ED9\u7F51_aigei_com_185"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 260
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
